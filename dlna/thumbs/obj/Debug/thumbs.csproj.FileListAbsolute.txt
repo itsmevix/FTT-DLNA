@@ -1,0 +1,30 @@
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\SimpleDlna.Thumbnails.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\SimpleDlna.Thumbnails.pdb
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\log4net.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\SimpleDlna.Server.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\SimpleDlna.Utilities.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\System.Data.SQLite.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\SimpleDlna.Server.pdb
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\SimpleDlna.Utilities.pdb
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\log4net.xml
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\bin\Debug\System.Data.SQLite.xml
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\obj\Debug\thumbs.csprojResolveAssemblyReference.cache
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\obj\Debug\SimpleDlna.Thumbnails.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\thumbs\obj\Debug\SimpleDlna.Thumbnails.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\SimpleDlna.Thumbnails.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\SimpleDlna.Thumbnails.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\log4net.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\SimpleDlna.Server.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\SimpleDlna.Utilities.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\System.Data.SQLite.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\SimpleDlna.Server.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\SimpleDlna.Utilities.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\log4net.xml
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\bin\Debug\System.Data.SQLite.xml
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\obj\Debug\thumbs.csprojResolveAssemblyReference.cache
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\obj\Debug\SimpleDlna.Thumbnails.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\thumbs\obj\Debug\SimpleDlna.Thumbnails.pdb

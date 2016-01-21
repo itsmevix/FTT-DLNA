@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2015-12-15T05:19:10" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna' -  (Package)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Opcoes' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program' -  (Class)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::BlockEvent' -  (Property)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::CancelHitCount' -  (Property)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::CancelKeyPressed' -  (Operation)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::CancelKeyPressed::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::CancelKeyPressed::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::ConfiguraServidorDeArquivos' -  (Operation)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::ConfiguraServidorDeArquivos::d' -  (Parameter)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::ConfiguraServidorDeArquivos::opcoes' -  (Parameter)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::ConfiguraServidorDeArquivos::tipos' -  (Parameter)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::ListaOrdens' -  (Operation)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::ListaVisualizacoes' -  (Operation)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::Main' -  (Operation)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::Main::args' -  (Parameter)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::Rodar' -  (Operation)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::dlna::Program::Rodar::servidor' -  (Parameter)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::NMaier' -  (Package)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::NMaier::SimpleDlna' -  (Package)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::NMaier::SimpleDlna::FileMediaServer' -  (Package)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::NMaier::SimpleDlna::FileMediaServer::FileServer' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::NMaier::SimpleDlna::Server' -  (Package)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::NMaier::SimpleDlna::Server::DlnaMediaTypes' -  (Enumeration)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::NMaier::SimpleDlna::Server::HttpServer' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System' -  (Package)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::ConsoleCancelEventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::IO' -  (Package)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::IO::DirectoryInfo' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Object' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Threading' -  (Package)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Threading::ManualResetEvent' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::UInt32' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="High" Text="(1) type(s) fully reverse engineered." />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="High" Text="(9) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2015-12-15T05:19:12" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

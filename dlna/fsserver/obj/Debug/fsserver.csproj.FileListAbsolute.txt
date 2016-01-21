@@ -1,0 +1,36 @@
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\SimpleDlna.FileMediaServer.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\SimpleDlna.FileMediaServer.pdb
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\log4net.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\SimpleDlna.Server.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\SimpleDlna.Thumbnails.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\SimpleDlna.Utilities.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\taglib-sharp.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\System.Data.SQLite.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\SimpleDlna.Server.pdb
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\SimpleDlna.Thumbnails.pdb
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\SimpleDlna.Utilities.pdb
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\log4net.xml
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\bin\Debug\System.Data.SQLite.xml
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\obj\Debug\fsserver.csprojResolveAssemblyReference.cache
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\obj\Debug\SimpleDlna.FileMediaServer.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\fsserver\obj\Debug\SimpleDlna.FileMediaServer.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\SimpleDlna.FileMediaServer.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\SimpleDlna.FileMediaServer.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\log4net.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\SimpleDlna.Server.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\SimpleDlna.Thumbnails.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\SimpleDlna.Utilities.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\taglib-sharp.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\System.Data.SQLite.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\SimpleDlna.Server.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\SimpleDlna.Thumbnails.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\SimpleDlna.Utilities.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\log4net.xml
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\bin\Debug\System.Data.SQLite.xml
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\obj\Debug\fsserver.csprojResolveAssemblyReference.cache
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\obj\Debug\SimpleDlna.FileMediaServer.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\fsserver\obj\Debug\SimpleDlna.FileMediaServer.pdb

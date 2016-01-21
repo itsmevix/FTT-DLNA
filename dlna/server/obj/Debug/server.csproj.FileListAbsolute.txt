@@ -1,0 +1,30 @@
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\bin\Debug\SimpleDlna.Server.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\bin\Debug\SimpleDlna.Server.pdb
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\bin\Debug\log4net.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\bin\Debug\SimpleDlna.Utilities.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\bin\Debug\System.Data.SQLite.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\bin\Debug\SimpleDlna.Utilities.pdb
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\bin\Debug\log4net.xml
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\bin\Debug\System.Data.SQLite.xml
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\obj\Debug\NMaier.SimpleDlna.Server.Properties.Resources.resources
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\obj\Debug\SimpleDlna.Server.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\server\obj\Debug\SimpleDlna.Server.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\bin\Debug\SimpleDlna.Server.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\bin\Debug\SimpleDlna.Server.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\bin\Debug\log4net.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\bin\Debug\SimpleDlna.Utilities.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\bin\Debug\System.Data.SQLite.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\bin\Debug\SimpleDlna.Utilities.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\bin\Debug\log4net.xml
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\bin\Debug\System.Data.SQLite.xml
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\obj\Debug\NMaier.SimpleDlna.Server.Properties.Resources.resources
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\obj\Debug\SimpleDlna.Server.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\server\obj\Debug\SimpleDlna.Server.pdb

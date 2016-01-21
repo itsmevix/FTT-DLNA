@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="69ab08b2-ca98-4c2b-87d5-f9b83b2de86e"
+  name="GetOptNet"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="0afd1895-bfbc-4187-ae91-6aec482fb472"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DNMaier.GetOptNet"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="00d2db9c-c470-4ce9-b47e-5b1aa40163c8"
+        name="GetOpt"
+        isAbstract="true"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="3fe55987-f8b4-4907-9bec-d4fadadf4ab0"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2Fc:%2FUsers%2Fjhon%2Fdocuments%2Fvisual studio 2013%2FProjects%2Fdlna%2Fpackages%2FGetOptNet.1.2.0.0%2Flib%2Fnet35-Client%2FGetOptNet.dll&quot; Namespace%3DNMaier.GetOptNet Type%3DGetOpt"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="a468f1d9-433f-48e0-8382-b2abfebd443c"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="afd5e6ae-e769-47f0-87a2-9a477b661748">
+                <propertyInstance
+                  Id="871decff-62d8-40b4-804d-08115c43a419"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="3548d29d-bb08-4537-8e28-e42bbe21db80">
+                <propertyInstance
+                  Id="5ee35ba5-11c2-484e-a80c-8d4e4787dd67"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="929888f2-70fc-4ca7-b273-c937b153c433">
+                <propertyInstance
+                  Id="59e2b898-c4a8-483f-85a2-b7432bbdee18"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="75a2cee4-8ed4-47dd-bfe4-9c973cc9bbdb">
+                <propertyInstance
+                  Id="9c0f0693-99ce-4ba9-af65-c7d35b82f224"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="4dcbc12d-1b65-4955-9351-fdbc99a133e1">
+                <propertyInstance
+                  Id="ebff17cb-c176-4d88-a7b0-b8ff2e5c300e"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

@@ -1,0 +1,23 @@
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\bin\Debug\SimpleDlna.Utilities.dll.config
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\bin\Debug\SimpleDlna.Utilities.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\bin\Debug\SimpleDlna.Utilities.pdb
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\bin\Debug\log4net.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\bin\Debug\System.Data.SQLite.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\bin\Debug\log4net.xml
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\bin\Debug\System.Data.SQLite.xml
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\obj\Debug\SimpleDlna.Utilities.dll
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\obj\Debug\SimpleDlna.Utilities.pdb
+C:\Users\jhon\Desktop\simpleDLNA-1.0\util\obj\Debug\util.csprojResolveAssemblyReference.cache
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\util\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\util\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\util\bin\Debug\SimpleDlna.Utilities.dll.config
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\util\bin\Debug\SimpleDlna.Utilities.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\util\bin\Debug\SimpleDlna.Utilities.pdb
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\util\bin\Debug\log4net.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\util\bin\Debug\System.Data.SQLite.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\util\bin\Debug\log4net.xml
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\util\bin\Debug\System.Data.SQLite.xml
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\util\obj\Debug\SimpleDlna.Utilities.dll
+C:\Users\jhon\Documents\Visual Studio 2013\Projects\dlna\util\obj\Debug\SimpleDlna.Utilities.pdb

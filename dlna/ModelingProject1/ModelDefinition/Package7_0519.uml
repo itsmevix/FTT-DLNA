@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="b09674ce-f3b8-4eb7-a020-acd714569ee0"
+  name="FileMediaServer"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="d377ed47-67a4-419f-98f0-6af111925f69"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DNMaier.SimpleDlna.FileMediaServer"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="6582e7f7-53e2-4a9d-88ff-ba9067362358"
+        name="FileServer"
+        isAbstract="false"
+        isLeaf="true"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="3c43331c-af9e-486b-894f-9a68ba36648d"
+            handle="viewcode://./CodeSchema_Class?Assembly%3Dfile:%2F%2F%2FC:%2FUsers%2Fjhon%2FDesktop%2FsimpleDLNA-1.0%2Ffsserver%2Fbin%2FDebug%2FSimpleDlna.FileMediaServer.dll Namespace%3DNMaier.SimpleDlna.FileMediaServer Type%3DFileServer"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="ada01c7b-b59d-487e-afd3-91fe7ef85867"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="13d44eed-037b-4939-8a0b-257dbe48ad45">
+                <propertyInstance
+                  Id="910bcd39-c58a-41a3-92ab-3ecef53f7313"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="d5ae00f4-d287-4b33-a4ff-c6d16735e9f1">
+                <propertyInstance
+                  Id="e40686fb-3865-44bb-8b92-a3e0eb9b0010"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="83e8d362-3521-4ed9-8366-2d4dd069ba17">
+                <propertyInstance
+                  Id="52a638ef-ec57-4074-a8af-a82062bc76db"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="592ba8ef-78ad-40ca-8890-2320990eb6c9">
+                <propertyInstance
+                  Id="e805cf8a-3d28-4d94-9847-3a65e5dcf91a"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="73942735-2d4d-40a9-b2f4-931e7421bf5f">
+                <propertyInstance
+                  Id="460d3fd4-eb78-465b-baf1-b19d68c737e8"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>
